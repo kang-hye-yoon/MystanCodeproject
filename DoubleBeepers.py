@@ -1,8 +1,8 @@
 """
 File: DoubleBeepers.py
-Name:
+Name:姜譿允
 -------------------------------
-TODO:
+
 """
 
 from karel.stanfordkarel import *
